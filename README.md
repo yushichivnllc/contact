@@ -1,8 +1,6 @@
 # contact
 thông tin liên hệ
 
-
-
 Hoàng Nghiền PC (Nishima Hayashi)
 683 người theo dõi • 706 đang theo dõi
 Giới thiệu
