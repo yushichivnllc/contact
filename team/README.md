@@ -1,4 +1,7 @@
 ---
+description: >-
+  Anime DayTime tập hợp những nội dung về game và anime, là nơi mọi người vui
+  chơi, sáng tạo, giải trí và thể hiện hết tài năng của chính mình.
 cover: .gitbook/assets/357736020_1116863343050502_1687385187073590816_n (1).jpg
 coverY: 0
 ---
