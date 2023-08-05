@@ -44,4 +44,4 @@ Mỗi kiểm duyệt viên ngày đăng bài ba bài tương đương với ba b
 
 LƯU Ý ( NẾU MÀ BUỔI HÔM ĐÓ MÀ CÓ TV ĐĂNG BÀI NÊN THÌ TẤT CẢ KDV KHÔNG CẦN ĐĂNG ĐỂ  CHO BÀI VIẾT ĐÓ LÊN TƯƠNG TÁTÁC
 
-## 4. QUẢN LÝ BOX CHAT CỘNG ĐỒNĐỒNG
+## 4. QUẢN LÝ BOX CHAT CỘNG ĐỒNG
