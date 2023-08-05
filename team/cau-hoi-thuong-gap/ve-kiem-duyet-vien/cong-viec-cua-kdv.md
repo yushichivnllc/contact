@@ -45,3 +45,14 @@ Mỗi kiểm duyệt viên ngày đăng bài ba bài tương đương với ba b
 LƯU Ý ( NẾU MÀ BUỔI HÔM ĐÓ MÀ CÓ TV ĐĂNG BÀI NÊN THÌ TẤT CẢ KDV KHÔNG CẦN ĐĂNG ĐỂ  CHO BÀI VIẾT ĐÓ LÊN TƯƠNG TÁTÁC
 
 ## 4. QUẢN LÝ BOX CHAT CỘNG ĐỒNG
+
+Nếu kdv rảnh thì vào box chat để kd tin nhắn&#x20;
+
+
+
+NHỮNG NỘI DUNG CẦN XÓA:
+
+* Nội dung spam linh ( ủng hộ,....)
+
+
+
