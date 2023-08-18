@@ -61,6 +61,8 @@
         </div>
     </header>
 
+ <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t39.30808-6/367999731_1140665440670292_5129583768123472260_n.png?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=1h3F0b_g-RoAX_cXSsn&_nc_ht=scontent.fhan2-3.fna&oh=00_AfDlmgV_z2hojPl4GbVsZe6TGpI0APqPNJpWd9ftsTf4Nw&oe=64E1947D">
+
 <!-- Product Section Begin -->
 <section class="product spad">
     <div class="container">
@@ -101,3 +103,50 @@
             </div>            
         </div>
     </section>
+
+     <!-- Js Plugins -->
+     <script src="https://baclethanxa.me/js/jquery-3.3.1.min.js"></script>
+     <script src="https://baclethanxa.me/js/bootstrap.min.js"></script>
+     <script src="https://baclethanxa.me/js/player.js"></script>
+     <script src="https://baclethanxa.me/js/jquery.nice-select.min.js"></script>
+     <script src="https://baclethanxa.me/js/mixitup.min.js"></script>
+     <script src="https://baclethanxa.me/js/jquery.slicknav.js"></script>
+     <script src="https://baclethanxa.me/js/owl.carousel.min.js"></script>
+     <script src="js/main.js"></script>
+
+
+     <!-- Messenger Plugin chat Code -->
+    <div id="fb-root"></div>
+
+    <!-- Your Plugin chat code -->
+    <div id="fb-customer-chat" class="fb-customerchat">
+    </div>
+
+    <script>
+      var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute("page_id", "104730582729341");
+      chatbox.setAttribute("attribution", "biz_inbox");
+    </script>
+
+    <!-- Your SDK code -->
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v17.0'
+        });
+      };
+
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+      
+
+</body>
+1edb583e079494fe363a79a6ffc23436
