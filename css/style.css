@@ -3,7 +3,19 @@ body {
 	height: 100%;
 	font-family: "Mulish", sans-serif;
 	-webkit-font-smoothing: antialiased;
-	background: #0b0c2a;
+	background: #00000042;
+}
+
+.imgtetx{
+	margin-top: -6%;
+	margin-right: 20%;
+	size: 20px;
+}
+
+.vote{
+	margin-top: -7%;
+    margin-left: 9%;
+	font-size: 150%;
 }
 
 h4.info{
